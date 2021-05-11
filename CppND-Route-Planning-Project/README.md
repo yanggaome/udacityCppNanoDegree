@@ -1,10 +1,13 @@
 # Route Planning Project
 
-This repo contains the finished code for the Route Planning project. The code has been tested and working properly.
+This repo contains the finished code for the Route Planning project. The code has been tested and is working properly.
 
 <img src="map.png" width="600" height="450" />
 
-## Cloning
+## Code structure
+<img src="codeStructure.png" width="600" height="450" />
+
+## Cloning the original repo
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
@@ -58,4 +61,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
