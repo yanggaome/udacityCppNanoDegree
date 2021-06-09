@@ -25,6 +25,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 1. Starter code is cloned from the Udacity project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
 
 2. Project structure
+
 ![Project Structure](images/projectStructure.PNG)
 
 3. Implemented the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
