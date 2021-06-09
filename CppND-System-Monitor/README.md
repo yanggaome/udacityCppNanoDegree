@@ -28,6 +28,8 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ![Project Structure](images/projectStructure.PNG)
 
+LinuxParser namespace functions will parse corresponding Linux files (e.g. /proc/, /etc/, etc.), summarize all important system and process related information, then pass to ncurses display.
+
 3. Implemented the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
 
 4. Build the project: `make build`
