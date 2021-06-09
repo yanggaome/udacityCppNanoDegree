@@ -4,9 +4,9 @@ Finished code for System Monitor Project in the Object Oriented Programming Cour
 
 Here is a screenshot of the running monitor
 
-![System Monitor](images/monitorRunning.png)
+![System Monitor](images/monitorRunning.PNG)
 
-## ncurses
+## ncurses library
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
 
 Within the Udacity Workspace, `.student_bashrc` automatically installs ncurses every time you launch the Workspace.
@@ -20,13 +20,16 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 * `debug` compiles the source code and generates an executable, including debugging symbols
 * `clean` deletes the `build/` directory, including all of the build artifacts
 
-## Instructions
+## Project
 
 1. Starter code is cloned from the Udacity project repository: `git clone https://github.com/udacity/CppND-System-Monitor-Project-Updated.git`
 
-2. Implement the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
+2. Project structure
+![Project Structure](images/projectStructure.PNG)
 
-3. Build the project: `make build`
+3. Implemented the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
 
-4. Run the resulting executable: `./build/monitor`
-![Running System Monitor](images/monitorRunning.png)
+4. Build the project: `make build`
+
+5. Run the resulting executable: `./build/monitor`
+![Running System Monitor](images/monitorRunning.PNG)
