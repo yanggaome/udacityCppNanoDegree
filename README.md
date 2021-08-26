@@ -12,17 +12,17 @@ To optimize your chances of success in the C++ Nanodegree program, we recommend 
 ## C++ Foundations
 Learn how to develop, compile, and execute C++ programs as well as syntax, functions, containers, and how to link together multiple files.
 
-**C++ Project: [Route Planner with Astar Search](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Route-Planning-Project)**
+**C++ Project Finished: [Route Planner with Astar Search](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Route-Planning-Project)**
 
 ## Object-Oriented Programming (OOP)
 Learn to build classes, interfaces, and generic templates to create an object-oriented C++ program. Learn how modern C++ includes many tools for writing clean, reusable code.
 
-**C++ Project: [Linux process monitor](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-System-Monitor)**
+**C++ Project Finished: [Linux process monitor](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-System-Monitor)**
 
 ## Memory Management
 Learn to control static and dynamic memory in C++ using the Resource Acquisition Is Initialization pattern, pointers, references, and move semantics.
 
-**C++ Project: [Memory Management Chatbot](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Memory-Management-Chatbot)**
+**C++ Project Finished: [Memory Management Chatbot](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Memory-Management-Chatbot)**
 
 ## Concurrency
 C++ supports running multiple execution paths in parallel. Learn how to launch process and threads in order to execute logic in parallel. Then advance to thread synchronization and communication, to experience the full power of concurrent programming.
