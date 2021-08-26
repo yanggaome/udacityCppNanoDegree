@@ -35,6 +35,8 @@ Your goal is to use the course knowledge to optimize the ChatBot program from a 
 
 ## Project Task Details
 
+<img src="ChatBotProgramStructure.PNG"/>
+
 Currently, the program crashes when you close the window. There is a small bug hidden somewhere, which has something to do with improper memory management. So your first warm-up task will be to find this bug and remove it. This should familiarize you with the code and set you up for the rest of the upcoming tasks. Have fun debugging!
 
 Aside from the bug mentioned above, there are five additional major student tasks in the Memory Management chatbot project, which are:
