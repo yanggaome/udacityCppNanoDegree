@@ -22,7 +22,7 @@ Learn to build classes, interfaces, and generic templates to create an object-or
 ## Memory Management
 Learn to control static and dynamic memory in C++ using the Resource Acquisition Is Initialization pattern, pointers, references, and move semantics.
 
-Project: memory management chatbot
+**C++ Project: [Memory Management Chatbot](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Memory-Management-Chatbot)**
 
 ## Concurrency
 C++ supports running multiple execution paths in parallel. Learn how to launch process and threads in order to execute logic in parallel. Then advance to thread synchronization and communication, to experience the full power of concurrent programming.
