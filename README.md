@@ -27,7 +27,7 @@ Learn to control static and dynamic memory in C++ using the Resource Acquisition
 ## Concurrency
 C++ supports running multiple execution paths in parallel. Learn how to launch process and threads in order to execute logic in parallel. Then advance to thread synchronization and communication, to experience the full power of concurrent programming.
 
-Project: concurrent traffic simulation
+:heavy_check_mark:**C++ Project Finished: [Linux process monitor](https://github.com/yanggaome/udacityCppNanoDegree/tree/main/CppND-Concurrent-Traffic-Simulation)**
 
 ## Capstone Project
 In your Capstone Project, you will put all of your new C++ skills to use! Utilize the core concepts from this Nanodegree program - object-oriented programming, memory management, and concurrency - to build your own application using C++.
